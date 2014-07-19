@@ -1,0 +1,69 @@
+
+.splash {
+	background: #000;
+	color: #fff;
+	font-family: Raleway, Helvetica, Arial, sans-serif;
+	font-weight: 700;
+	font-size: 16px;
+	margin: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.splash-future, .splash-qpi {
+	display: none;
+	height: 100px;
+	left: 0;
+	line-height: 100px;
+	margin: 0;
+	position: fixed;
+	right: 0;
+	text-align: center;
+	top: 40%;
+	padding: 0;
+	margin: 0;
+	/*text-shadow: 0 0 10px #FFFFFF;*/
+	/*text-shadow: 0 0 32px rgba(255,255,255,0.5);*/
+	/*text-shadow: 0 0 16px rgba(255,255,255,0.75);*/
+}
+.splash-qpi {
+	font-size: 5em;
+	letter-spacing: 0.1em;
+	text-shadow: 0 0 32px rgba(255,255,255,0.5);
+}
+.splash-future {
+	font-family: Roboto, Helvetica, Arial, sans-serif;
+	font-weight: 900;
+	font-size: 2em;
+	letter-spacing: 0.8em;
+	margin: 0;
+	text-transform: uppercase;
+	text-shadow: 0 0 16px rgba(255,255,255,0.5);
+}
+
+.splash-info {
+	color: #666;
+	display: none;
+	font-family: Helvetica, Tahoma, Arial, sans-serif;
+	font-size: 1.1em;
+	line-height: 1.8em;
+	position: fixed;
+	bottom: 40px;
+	right: 60px;
+}
+.splash-info a {
+	color: #666;
+	text-decoration: none;
+}
+.splash-info a:hover {
+	color: #ccc;
+	text-decoration: none;
+}
+
+.reg:after {
+	content: "\00AE";
+	font-size: 20%;
+}
