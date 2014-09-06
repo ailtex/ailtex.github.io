@@ -1,8 +1,27 @@
-destination: ./_site
-markdown:    rdiscount
-permalink:   date
-lsi:         false
-server_port: 4000
-rdiscount:
-  extensions: [smart]
+title:            Ailtex
+description:      I am What am I
+url:              # Site url.
+signoff:          Ailtex
+disqus_shortname: ailtex
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: UA-54520458-1
 
+links:
+  - name:         About
+    url:          /about
+  - name:         Achieve
+    url:          /achieve
+  - name:         Blog
+    url:          /
+  - name:         Email
+    url:          mailto:gausszhang@gmail.com
+    external:     true
+  - name:         GitHub
+    url:          http://github.com/ailtex
+    external:     true
+highlighter:      pygments
+permalink:        pretty
+markdown:         rdiscount
+rdiscount:
+  extensions:
+    - smart
