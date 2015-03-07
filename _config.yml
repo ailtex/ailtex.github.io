@@ -1,10 +1,10 @@
 title:            Ailtex
 description:      I am What am I
-url:              # Site url.
+url:              i.ailtex.com
 signoff:          Ailtex
 disqus_shortname: ailtex
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: UA-54520458-1
+# google_analytics: UA-54520458-1
 
 links:
   - name:         About
