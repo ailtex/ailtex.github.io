@@ -1,6 +1,6 @@
 title:            Ailtex
 description:      I am What am I
-url:              i.ailtex.com
+url:              # Site url.
 signoff:          Ailtex
 disqus_shortname: ailtex
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
