@@ -18,9 +18,6 @@ links:
   - name:         Email
     url:          mailto:gausszhang@gmail.com
     external:     true
-  # - name:         GitHub
-  #   url:          http://github.com/ailtex
-  #   external:     true
 
 highlighter:      pygments
 permalink:        pretty
