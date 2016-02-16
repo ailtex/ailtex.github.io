@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips for Daily Server Operations
-date: 2016-02-15 13:37:00
+date: 2016-02-14 13:37:00
 disqus: y
 ---
 
