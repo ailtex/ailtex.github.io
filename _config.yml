@@ -19,6 +19,8 @@ links:
   - name:         GitHub
     url:          http://github.com/ailtex
     external:     true
+  - name:         Her
+    url:          /her
 highlighter:      pygments
 permalink:        pretty
 markdown:         rdiscount
