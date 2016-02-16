@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips-for-Daily-IT-Operations
+title: Tips for Daily IT Operations
 date: 2016-02-16 13:37:00
 disqus: y
 ---
