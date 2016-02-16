@@ -1,11 +1,19 @@
 ---
 layout: post
 title: TipsforDailyServerOperations
-date: 2016-02-15 15:32:50
+date: 2016-02-15 13:37:00
 disqus: y
 ---
 
-> 美景之美，在其忧伤。
->
-> 美人之美，在其颦首。
+Tips for Daily Server Operations
+
+### Linux
+
+- 查询进程关系 `[Linux]`
+	
+	`ps axjf`
+
+- 查看文件夹大小 `[Linux]`
+	
+	`du -h --max-depth=1`
 
