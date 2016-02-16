@@ -7,20 +7,21 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 # google_analytics: UA-54520458-1
 
 links:
-  - name:         About
+  - name:         Me
     url:          /about
-  - name:         Achieve
-    url:          /achieve
-  - name:         Blog
+  - name:         Her
+    url:          /her
+  # - name:         Achieve
+  #   url:          /achieve
+  - name:         Blogs
     url:          /
   - name:         Email
     url:          mailto:gausszhang@gmail.com
     external:     true
-  - name:         GitHub
-    url:          http://github.com/ailtex
-    external:     true
-  - name:         Her
-    url:          /her
+  # - name:         GitHub
+  #   url:          http://github.com/ailtex
+  #   external:     true
+
 highlighter:      pygments
 permalink:        pretty
 markdown:         rdiscount
